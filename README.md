@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sheshagiri</h1>
-<h3 align="center">A passionate Web & Mobile developer and SDET from India</h3>
+<h3 align="center">A passionate Web & Mobile developer and SDET from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1993s&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1993s" /> </p>
 
